@@ -4,5 +4,4 @@ HealthSage AI offers an Open Source Platform for Generative AI focused on Health
 
 Community - https://slack.
 Documentation - https://docs.
-Blog - https://blog.
 Website - https://healthsage.ai
