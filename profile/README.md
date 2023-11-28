@@ -4,6 +4,6 @@ HealthSage AI offers an Open Source Platform for Generative AI focused on Health
 
 Find us at:
 - Community - https://healthsageaicommunity.slack.com
-- Huggingface - https://huggingface.co/healthsage
+- Hugging Face - https://huggingface.co/healthsage
 - Website - https://healthsage.ai
   
