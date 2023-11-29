@@ -1,1 +1,1 @@
-# Welcome to the HealthSage AI Github repository
+HealthSage AI offers an Open Source Generative AI Platform for Healthcare.
